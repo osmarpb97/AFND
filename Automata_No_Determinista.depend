@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1538134752 source:c:\users\dell\desktop\automata_no_determinista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<math.h>
+
